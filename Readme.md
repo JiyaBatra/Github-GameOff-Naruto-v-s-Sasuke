@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/banner.png" alt="Naruto vs Sasuke banner" width="100%">
+  <img src="assets/banner.png" alt="Naruto vs Sasuke banner" width="100%">
 </p>
 
 # 🍥 Naruto vs Sasuke
