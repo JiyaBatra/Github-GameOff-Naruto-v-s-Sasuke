@@ -10,7 +10,7 @@ A 2D fighting game made with **Python and Pygame**. Pick Naruto or Sasuke, fight
 
 ---
 
-## ✨ Features
+##  Features
 
 -  **Human vs Computer**: fight a simple AI that walks, jumps, punches and throws shuriken
 -  **Human vs Human**: two players on one keyboard
@@ -26,15 +26,15 @@ A 2D fighting game made with **Python and Pygame**. Pick Naruto or Sasuke, fight
 
 | Home | Mode select |
 |:---:|:---:|
-| ![Home](screenshots/home.png) | ![Mode select](screenshots/mode-select.png) |
+| ![Home](assets/home.png) | ![Mode select](assets/mode-select.png) |
 
 | Battle | Winner screen |
 |:---:|:---:|
-| ![Battle](screenshots/battle.png) | ![Winner](screenshots/winner.png) |
+| ![Battle](assets/battle.png) | ![Winner](assets/winner.png) |
 
 ---
 
-## 🚀 Quick start
+##  Quick start
 
 **Requirements:** Python 3.10+ and Pygame.
 
@@ -47,7 +47,7 @@ Choose **PLAY** (offline) or **GUEST MODE** to start fighting right away.
 
 ---
 
-## 🎮 Controls
+##  Controls
 
 | Action | Offline P1 / Online | Offline P2 (Human vs Human) |
 |---|---|---|
@@ -61,7 +61,7 @@ Punch deals **10** damage and has knockback. Shuriken deals **12** damage. First
 
 ---
 
-## 🗺️ Game flow
+##  Game flow
 
 ```mermaid
 flowchart TD
@@ -223,7 +223,7 @@ Sprites are JPGs, so near-white pixels are removed at load time to fake transpar
 
 ---
 
-## 🔮 Ideas for the future
+##  Ideas for the future
 
 - Online play over the internet (host `server.py` on a cloud service)
 - Touch controls for phones
@@ -233,6 +233,6 @@ Sprites are JPGs, so near-white pixels are removed at load time to fake transpar
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Made by **Jiya Batra**. Built with Python and Pygame.
